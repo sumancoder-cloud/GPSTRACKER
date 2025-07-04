@@ -7,9 +7,8 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-## 🚀 Live Demo
-
-[**View Live Application**](your-deployed-url-here) | [**Figma Design**](https://www.figma.com/board/49hoyUBYUHItrS0RG32UvK/Untitled?t=QI2t9O0mf4NhGyLQ-)
+## 🚀FIGMA  Demo
+ [**Figma Design**](https://www.figma.com/board/49hoyUBYUHItrS0RG32UvK/Untitled?t=QI2t9O0mf4NhGyLQ-)
 
 ## 📱 Features
 
@@ -177,8 +176,7 @@ After running the installation script (`node install.js`), you can use these def
 |------|----------|----------|-------|
 | Super Admin | `superadmin` | `SuperAdmin@123` | superadmin@assettrack.com |
 | Admin | `admin` | `Admin@123` | admin@assettrack.com |
-| User | `suman2_user` | `Suman123!` | suman@example.com |
-| Test User | `testuser` | `Test123!` | test@example.com |
+|  User | `testuser` | `Test123!` | test@example.com |
 
 ## 📖 Usage Guide
 
@@ -256,9 +254,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [sumancoder-cloud]([https://github.com/s](https://github.com/sumancoder-cloud))
+- LinkedIn: [Suman Yadav](www.linkedin.com/in/tati-suman-yadav-938569351)
+- Email: suman.tati2005@gmail.com
 
 ## 🙏 Acknowledgments
 
